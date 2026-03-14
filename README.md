@@ -23,3 +23,6 @@ I'm a passionate developer who loves building things and solving problems. Welco
 **Server:** PHP, Laravel, Python
 
 **Cloud:** AWS
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hectorga8&theme=tokyonight)](https://git.io/streak-stats)
