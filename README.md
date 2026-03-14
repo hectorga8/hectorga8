@@ -24,5 +24,6 @@ I'm a passionate developer who loves building things and solving problems. Welco
 
 **Cloud:** AWS
 
+## Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hectorga8&theme=tokyonight)](https://git.io/streak-stats)
